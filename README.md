@@ -1,5 +1,5 @@
-<h1 align="center"> #!Bienvenidos¡ </h1>  
-<h2 align="center"> ## Estes es mi Conversor de Monedas para el challenge de Alura Latam para el programa oracle Next Education(ONE). </h2>  
+<h1 align="center"> !Bienvenidos¡ </h1>  
+<h2 align="center"> Estes es mi Conversor de Monedas para el challenge de Alura Latam para el programa oracle Next Education(ONE). </h2>  
 
 <p aling="center">El código está completamente desarrollado con Java y para su funcionamiento está conectado a la API "Exchange Rate" para poder  
 realizar las conversiones.  
@@ -22,7 +22,7 @@ Record Moneda: Esta es la encargada de recibir e interpretar los datos enviados 
   ![Aplicacion funcionando](https://github.com/Jonathan-Med/ConversorDeMonedas/tree/master/Imagenes/ItsWorks.png)  
   La forma que implemente para salir del código es seleccionando el 0 en cualquiera de los 2 apartados para seleccionar la divisa: 
   ![Salir de la aplicacion](https://github.com/Jonathan-Med/ConversorDeMonedas/tree/master/Imagenes/0ToExit.png)  
-    ###Errores: El código funcionará correctamente sin importar la entrada, si ocurre un error este comenzará de nuevo el bucle.
+    Errores: El código funcionará correctamente sin importar la entrada, si ocurre un error este comenzará de nuevo el bucle.
   Cuando ingresamos un número que no está en el menú, el programa nos pedirá que seleccionemos números válidos:
   ![Error al usar numeros fuera de rango](https://github.com/Jonathan-Med/ConversorDeMonedas/tree/master/Imagenes/OutOfRange.png)  
   Tambien soporta la entrada de caracteres especiales o letras, en este caso se le informará al usuario que ocurrió un error porque las
