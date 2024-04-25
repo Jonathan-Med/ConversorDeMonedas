@@ -16,11 +16,9 @@ Record Moneda: Esta es la encargada de recibir e interpretar los datos enviados 
   
 <p align="center">
   Como se puede ver el menú costa de 15 opciones a elegir:  
-  ![Menu](https://github.com/Jonathan-Med/ConversorDeMonedas/assets/111925532/85526491-4724-4e1b-a6b2-3ae3ccab8a48)  
-  
-
+    ![Menu](https://github.com/Jonathan-Med/ConversorDeMonedas/assets/111925532/1b2a7f6b-2fc5-45ef-9515-3925cc897582)  
   Se puede ver que se comunica de manera correcta con la API y que el formato de salida está adaptado para mostrar el resultado de una
-  manera más comoda:  
+  manera más comoda:    
   ![ItsWorks](https://github.com/Jonathan-Med/ConversorDeMonedas/assets/111925532/f34455b3-3713-419b-b614-dffb941414c8)  
   
   La forma que implemente para salir del código es seleccionando el 0 en cualquiera de los 2 apartados para seleccionar la divisa:   
