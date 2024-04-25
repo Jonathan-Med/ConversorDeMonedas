@@ -15,27 +15,28 @@ Record Moneda: Esta es la encargada de recibir e interpretar los datos enviados 
 </p>
   
 <p align="center">
-  Como se puede ver el menú costa de 15 opciones a elegir:
-  ![Menu](https://github.com/Jonathan-Med/ConversorDeMonedas/assets/111925532/206e5fcc-dd49-4d75-944a-8f376cacc21f)  
+  Como se puede ver el menú costa de 15 opciones a elegir:  
+  ![Menu](https://github.com/Jonathan-Med/ConversorDeMonedas/assets/111925532/85526491-4724-4e1b-a6b2-3ae3ccab8a48)  
+  
 
   Se puede ver que se comunica de manera correcta con la API y que el formato de salida está adaptado para mostrar el resultado de una
   manera más comoda:  
-  ![ItsWorks](https://github.com/Jonathan-Med/ConversorDeMonedas/assets/111925532/f34455b3-3713-419b-b614-dffb941414c8)
+  ![ItsWorks](https://github.com/Jonathan-Med/ConversorDeMonedas/assets/111925532/f34455b3-3713-419b-b614-dffb941414c8)  
   
   La forma que implemente para salir del código es seleccionando el 0 en cualquiera de los 2 apartados para seleccionar la divisa:   
-  ![0ToExit](https://github.com/Jonathan-Med/ConversorDeMonedas/assets/111925532/1c30a037-c88d-4639-8a70-7fa2b27c5fd6)
+  ![0ToExit](https://github.com/Jonathan-Med/ConversorDeMonedas/assets/111925532/1c30a037-c88d-4639-8a70-7fa2b27c5fd6)  
     Errores: El código funcionará correctamente sin importar la entrada, si ocurre un error este comenzará de nuevo el bucle.
   Cuando ingresamos un número que no está en el menú, el programa nos pedirá que seleccionemos números válidos:  
-  ![OutOfRange](https://github.com/Jonathan-Med/ConversorDeMonedas/assets/111925532/b01e3391-fdf0-405f-9857-d13dae6a29b7)
+  ![OutOfRange](https://github.com/Jonathan-Med/ConversorDeMonedas/assets/111925532/b01e3391-fdf0-405f-9857-d13dae6a29b7)  
   
   Tambien soporta la entrada de caracteres especiales o letras, en este caso se le informará al usuario que ocurrió un error porque las
   entradas no son válidas: 
   ![LetterInOption](https://github.com/Jonathan-Med/ConversorDeMonedas/assets/111925532/2c099a71-4551-46e1-92a7-53493c989693)
 
-  ![letterInAmount](https://github.com/Jonathan-Med/ConversorDeMonedas/assets/111925532/b14edd3f-beac-4fd4-8229-f9cbe7ff37b1)
+  ![letterInAmount](https://github.com/Jonathan-Med/ConversorDeMonedas/assets/111925532/b14edd3f-beac-4fd4-8229-f9cbe7ff37b1)  
 
   En este caso decidí que el programa no pudiera convertir la misma divisa, por lo que lo marca como opciones no válidas:  
-  ![SameNum](https://github.com/Jonathan-Med/ConversorDeMonedas/assets/111925532/6ac204d8-d2b6-41d4-90d8-f81e8270d8f9)
+  ![SameNum](https://github.com/Jonathan-Med/ConversorDeMonedas/assets/111925532/6ac204d8-d2b6-41d4-90d8-f81e8270d8f9)  
   
   Por ultimo el código no admite espacios, por lo que se deben de evitar:  
   ![Space1](https://github.com/Jonathan-Med/ConversorDeMonedas/assets/111925532/2910e1b7-47e7-47dc-96f2-13921f278d20)
