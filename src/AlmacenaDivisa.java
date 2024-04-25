@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class AlmacenaDivisa {
-    private List<Divisa> listaDivisas;
+    private final List<Divisa> listaDivisas;
 
 
     public AlmacenaDivisa() {
@@ -33,18 +33,7 @@ public class AlmacenaDivisa {
 
     public void muestraDivisa() {
         for (Divisa divisa : listaDivisas) {
-            if (divisa.isDisponible()) {
-                System.out.println(divisa.toString());
-            }
-        }
-    }
-
-    public void ocultaDivisa(int idSeleccionado) {
-        for (Divisa divisa : listaDivisas) {
-            if (divisa.getId() == idSeleccionado) {
-                divisa.setDisponible(false);
-                break;
-            }
+            System.out.println(divisa.toString());
         }
     }
 }
