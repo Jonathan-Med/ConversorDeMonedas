@@ -30,7 +30,7 @@ Record Moneda: Esta es la encargada de recibir e interpretar los datos enviados 
   ![OutOfRange](https://github.com/Jonathan-Med/ConversorDeMonedas/assets/111925532/b01e3391-fdf0-405f-9857-d13dae6a29b7)  
   
   Tambien soporta la entrada de caracteres especiales o letras, en este caso se le informará al usuario que ocurrió un error porque las
-  entradas no son válidas: 
+  entradas no son válidas:  
   ![LetterInOption](https://github.com/Jonathan-Med/ConversorDeMonedas/assets/111925532/2c099a71-4551-46e1-92a7-53493c989693)
 
   ![letterInAmount](https://github.com/Jonathan-Med/ConversorDeMonedas/assets/111925532/b14edd3f-beac-4fd4-8229-f9cbe7ff37b1)  
