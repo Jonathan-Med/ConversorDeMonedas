@@ -1,7 +1,7 @@
 <h1 align="center"> !Bienvenidos¡ </h1>  
 <h2 align="center"> Estes es mi Conversor de Monedas para el challenge de Alura Latam para el programa oracle Next Education(ONE). </h2>  
 
-<p aling="center">El código está completamente desarrollado con Java y para su funcionamiento está conectado a la API "Exchange Rate" para poder  
+<p text-align="center"> El código está completamente desarrollado con Java y para su funcionamiento está conectado a la API "Exchange Rate" para poder  
 realizar las conversiones.  
 
 El proyecto se divide en 4 clases y un record:  
@@ -14,7 +14,7 @@ Clase ConvierteMoneda: Esta clase es la que se comunica con la API para realizar
 Record Moneda: Esta es la encargada de recibir e interpretar los datos enviados desde la API.
 </p>
   
-<p align="center">
+<p text-align="center">
   Como se puede ver el menú costa de 15 opciones a elegir:  
   
   ![Menu](https://github.com/Jonathan-Med/ConversorDeMonedas/assets/111925532/1b2a7f6b-2fc5-45ef-9515-3925cc897582)  
