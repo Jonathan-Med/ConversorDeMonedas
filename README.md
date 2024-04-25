@@ -16,11 +16,14 @@ Record Moneda: Esta es la encargada de recibir e interpretar los datos enviados 
   
 <p align="center">
   Como se puede ver el menú costa de 15 opciones a elegir:  
-    ![Menu](https://github.com/Jonathan-Med/ConversorDeMonedas/assets/111925532/1b2a7f6b-2fc5-45ef-9515-3925cc897582)  
-  Se puede ver que se comunica de manera correcta con la API y que el formato de salida está adaptado para mostrar el resultado de una
-  manera más comoda:    
-  ![ItsWorks](https://github.com/Jonathan-Med/ConversorDeMonedas/assets/111925532/f34455b3-3713-419b-b614-dffb941414c8)  
   
+  ![Menu](https://github.com/Jonathan-Med/ConversorDeMonedas/assets/111925532/1b2a7f6b-2fc5-45ef-9515-3925cc897582)  
+  
+  Se puede ver que se comunica de manera correcta con la API y que el formato de salida está adaptado para mostrar el resultado de una
+  manera más comoda:  
+  
+  ![ItsWorks](https://github.com/Jonathan-Med/ConversorDeMonedas/assets/111925532/9bf821af-75e5-44a8-b458-3829591a6b09)  
+
   La forma que implemente para salir del código es seleccionando el 0 en cualquiera de los 2 apartados para seleccionar la divisa:   
   ![0ToExit](https://github.com/Jonathan-Med/ConversorDeMonedas/assets/111925532/1c30a037-c88d-4639-8a70-7fa2b27c5fd6)  
     Errores: El código funcionará correctamente sin importar la entrada, si ocurre un error este comenzará de nuevo el bucle.
