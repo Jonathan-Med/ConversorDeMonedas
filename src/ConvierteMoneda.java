@@ -8,7 +8,7 @@ import java.net.http.HttpResponse;
 public class ConvierteMoneda {
 
     public Moneda convierteDivisa(String monedaActual, String monedaObjetivo, double cantidad){
-        URI direccion = URI.create("https://v6.exchangerate-api.com/v6/c1909f63a72a46cd5aba0e4e/pair/"+monedaActual+"/"+monedaObjetivo+"/"+cantidad);
+        URI direccion = URI.create("https://v6.exchangerate-api.com/v6/API_KEY/pair/"+monedaActual+"/"+monedaObjetivo+"/"+cantidad);
         HttpClient client = HttpClient.newHttpClient();
         HttpRequest request = HttpRequest.newBuilder()
                 .uri(direccion)
